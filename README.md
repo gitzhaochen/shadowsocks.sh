@@ -1,6 +1,6 @@
 #### Useage
 ```sh
-wget --no-check-certificate -O shadowsocks.sh https://github.com/gitzhaochen/shadowsocks.sh/blob/master/config.sh
+wget --no-check-certificate -O shadowsocks.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh
 
 chmod +x shadowsocks.sh
 
